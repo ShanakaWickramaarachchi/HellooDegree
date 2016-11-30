@@ -1085,8 +1085,10 @@ $databaseName ='helloode_courses';
   </div>
 </div>
 </footer>
+<script src="assets/js/jquery.min.js"></script> 
 
-<script src="assets1/js/bootstrap.min.js"></script>
+<script src="assets/js/wow.min.js"></script> 
+<script src="assets/js/custom.js"></script> 
 
 </body>
 </html>
