@@ -1,0 +1,11 @@
+{
+  "age2": "https://www.youtube.com/embed/xRqHLiqzL7A?rel=0",
+  "age": "https://www.youtube.com/embed/xRqHLiqzL7A?rel=0",
+  "age3": "Java Language එකේ ඉතිහාසය",
+  "age5": "1991 අවුරුද්දෙ James Gosling , Mike Sheridan and Patrick Naughton තිදෙනා තමයි project එකක් විදිහට Java Language එක ආරම්භ කරේ.James Goslingගෙ office එකේ තියෙන oak ගහක් දැකල මේ project එකට oak කියල නම තියන්න හැදුවත් අවසානයේදී මේකට java කියල තමයි නම වැටෙන්නෙ.මුලින්  Sun Microsystems සමාගමට  Java Languageඑකේ අයිතිය තිබ්බත් මේ වනවිට Oracle සමාගමට එය අයිතිව ඇත.",
+  "age6": "Java SE නැතහොත් සම්මත සංස්කරණය තුල Java වල  ඇති  Libraries සහ  APIs' ඇතුලත් වෙයි.(java.lang, java.io, java.math, java.net, java.util, etc...)Java EE = Enterprise Editio, Java EE නැතහොත් ව්‍යාපාරික සංස්කරණය තුල  ව්‍යාපාරික කටයුතු සඳහා අවශ්‍යය  Application Servers තුල Run කලහැකි fault-tolerant, distributed, multi-tier Java software අඩංගු වේ.Java ME = Micro Edition.Java EE තුල Android වැනි Moblie applications නිර්මානයට අවශ්‍යය වන හැකියාවන් අඩංගූ වේ.",
+  "age10": "java වල usage එක ගැන බැලුවොත් java අනිත් languages වලට වඩා වැඩිපුර භාවිතා වෙනවද කියල බලාගන්න පුලුවන් පහල තියෙන chart එකෙන්.",
+  "age4": "../images/jamesgosling.jpg",
+  "age7": "../images/oracle-sun.jpg",
+  "age8": "../images/java-builds.png"
+}
